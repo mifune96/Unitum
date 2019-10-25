@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Unitum</string>
+    <string name="status">Status</string>
+    <string name="car_weight">Car Weight</string>
+    <string name="maximum_weight">Batas Maksimum</string>
+    <string name="emptyWeight">Berat Kosong</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="track">Track</string>
+
+    <string name="status_normal">Normal</string>
+    <string name="status_over">Overload</string>
+    <string name="car_dimension">Dimensi Mobil</string>
+    <string name="title_activity_maps">Track</string>
 </resources>

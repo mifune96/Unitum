@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "548816251278",
+    "firebase_url": "https://unitum-54453.firebaseio.com",
+    "project_id": "unitum-54453",
+    "storage_bucket": "unitum-54453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548816251278:android:d7bfbaf32b6049e9f71cdf",
+        "android_client_info": {
+          "package_name": "com.timbabe.unitum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548816251278-bmae38046jqa45tretape3cvt0vko8nn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.timbabe.unitum",
+            "certificate_hash": "2b9ef183e5592490c61b8d06c194475951832b49"
+          }
+        },
+        {
+          "client_id": "548816251278-can8034mnuo4sco3g6lud8hdf2roiml8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALPMzqlSLf4gMOxtWrSPfFhDosw3W4wWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548816251278-can8034mnuo4sco3g6lud8hdf2roiml8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
